@@ -2,7 +2,16 @@
 
 A beginner-friendly Python project that helps users record, manage, and analyze their daily expenses using CSV file storage. This project is developed as part of my Python internship tasks.
 
-live Demo:
+## 🚀 Live Demo
+
+Try the Personal Expense Tracker here:
+
+**[Open Live Demo](https://project03expensetracker-bc4pilyp5be9rcyktj7xim.streamlit.app/)**
+
+## 💻 Source Code
+
+[View this project on GitHub](https://github.com/Dipakmengal/Project03_ExpenseTracker)
+
 
 ## 📌 Project Overview
 
